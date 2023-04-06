@@ -8,7 +8,6 @@ import SignUpUser from '../pages/user/SignUpUser';
 import AdminSpace from '../pages/space/AdminSpace';
 import Space from '../pages/space/Space';
 import ReservationDetail from '../pages/Reservation/ReservationDetail'
-import AdminSpace from '../pages/AdminSpace';
 import { useSelector } from 'react-redux';
 import { useEffect, useState } from 'react';
 
